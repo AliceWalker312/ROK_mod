@@ -795,7 +795,11 @@ focus_tree = {
 		mutually_exclusive = {
 			focus = military_arrest
 		}
+<<<<<<< HEAD
 		x = 50
+=======
+		x = 35
+>>>>>>> 2f54ade0cb9b741c7a479d384b8245b1fc20c010
 		y = 1
 
 	}
@@ -1019,7 +1023,11 @@ focus_tree = {
 	}
 	focus = {
 		id = leader_of_Kim_Il-sung
+<<<<<<< HEAD
 		icon = GFX_
+=======
+		icon = GFX_focus_kim_ilsung
+>>>>>>> 2f54ade0cb9b741c7a479d384b8245b1fc20c010
 		cost = 10.00
 		prerequisite = {
 			focus = Workers'_Party_of_Korea
@@ -1148,7 +1156,11 @@ focus_tree = {
 	}
 	focus = {
 		id = leadership-centered_system
+<<<<<<< HEAD
 		icon = GFX_goal_unknown
+=======
+		icon = GFX_
+>>>>>>> 2f54ade0cb9b741c7a479d384b8245b1fc20c010
 		cost = 10.00
 		prerequisite = {
 			focus = Party_Member_Problem_Solving
@@ -1157,6 +1169,7 @@ focus_tree = {
 		x = 25
 		y = 8
 	}
+<<<<<<< HEAD
 	focus = {
 		id = division_of_party
 		icon = GFX_focus_eng_concessions_to_the_trade_unions
@@ -1532,4 +1545,6 @@ focus_tree = {
 
      }
 
+=======
+>>>>>>> 2f54ade0cb9b741c7a479d384b8245b1fc20c010
 }

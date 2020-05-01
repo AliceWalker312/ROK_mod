@@ -40,4 +40,19 @@ spriteTypes = {
 		name = "GFX_Focus_kor_soldaderas"
 		texturefile = "gfx/interface/goals/Focus_kor_soldaderas.dds"
 	}
+<<<<<<< HEAD
+=======
+	SpriteType = {
+		name = "GFX_focus_kim_ilsung"
+		texturefile = "gfx/interface/goals/focus_kim_ilsung.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_pak_honyong"
+		texturefile = "gfx/interface/goals/focus_pak_honyong.dds"
+	}
+	SpriteType = {
+		name = "GFX_focus_red_revolution"
+		texturefile = "gfx/interface/goals/focus_red_revolution.dds"
+	}
+>>>>>>> 2f54ade0cb9b741c7a479d384b8245b1fc20c010
 }
